@@ -1,6 +1,8 @@
 # QuasarApp (09-quasar)
 
-A Quasar Framework app
+# Curso de Vue y otros relacionados
+[Cursos sobre Vue y relacionados](https://fernando-herrera.com/#/search/vue)
+
 
 ## Install the dependencies
 ```bash
