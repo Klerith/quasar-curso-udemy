@@ -12,6 +12,18 @@ export const linksList = [
       link: 'flex'
     },
     {
+      title: 'Dialogs',
+      caption: 'Alertas, diálogos y confirmaciones',
+      icon: 'las la-window-minimize',
+      link: 'dialogs'
+    },
+    {
+      title: 'Forms',
+      caption: 'Inputs, validaciones... ',
+      icon: 'lab la-wpforms',
+      link: 'forms'
+    },
+    {
       title: 'Docs',
       caption: 'quasar.dev',
       icon: 'las la-graduation-cap',
